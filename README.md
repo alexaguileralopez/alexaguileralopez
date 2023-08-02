@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
 
 #### Contact
 
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/alex-aguilera-lopez/). I'm always open to interesting conversations, collaboration, or just saying hello!
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/alex-aguilera-lopez/) or [email](alex.aguilera.lopez@gmail.com). I'm always open to interesting conversations, collaboration, or just saying hello!
 
 Looking forward to exploring the exciting world of coding together!
 
