@@ -26,8 +26,9 @@ I'm well-versed in a variety of technologies and languages, including:
 Here are a few projects I've worked on:
 
 - [Modelling Airbnb's Property Listing Dataset](https://github.com/alexaguileralopez/modelling-airbnbs-property-listing-dataset-): Building a framework to systematically train, tune, and evaluate models on several tasks that are tackled by the Airbnb team.
-- [Multinational Retail Data Centralisation](https://github.com/alexaguileralopez/multinational-retail-data-centralisation): Producing a system that stores company data in a database so that it's accessed from one centralised location. In addition, accessing that data to get up-to-date metrics for the business. 
-- [Computer Vision Rock Paper Scissors](https://github.com/alexaguileralopez/computer-vision-rock-paper-scissors): Creating a CV system that allows a user to play rock paper scissors with the computer, while only utilising gestures. 
+- [Multinational Retail Data Centralisation](https://github.com/alexaguileralopez/multinational-retail-data-centralisation): Producing a system that stores company data in a database so that it's accessed from one centralised location. In addition, accessing that data to get up-to-date metrics for the business.
+- [Artificial Intelligence use case for Gala Groceries](https://github.com/alexaguileralopez/cognizant-data-science-internship): Performing EDA, data modelling, and model building for a grocery store chain in the search of a solution to better stock their products.
+
 
 #### Contact
 
